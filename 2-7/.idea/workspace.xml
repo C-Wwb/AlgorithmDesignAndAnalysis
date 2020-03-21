@@ -1,67 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="2_7" targetName="2_7" />
-    </generated>
-  </component>
-  <component name="CMakeSettings">
-    <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
-    </configurations>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="12125e27-90d7-4e71-b3f9-a520d4e794b9" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b1e1553a-7896-419a-961e-4ca0d679ebc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2-5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第一章 算法概述/第一章 算法概述.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第一章 算法概述/计科1801班-2018011137-武文斌-算法设计与分析第一次作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第一章 算法概述/计算机算法设计与分析课后答案.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="1ZIbvNh3MqJgxNbRZlzKJ3aMd2E" />
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="T:\assignment\大二下\算法设计与分析\作业\coding\2-7\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQtvmUDbWBmg7Jw4f5S7mdjPDT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
   <component name="RunManager">
-    <configuration name="2_7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_7" TARGET_NAME="2_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_7" RUN_TARGET_NAME="2_7">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2-7" />
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12125e27-90d7-4e71-b3f9-a520d4e794b9" name="Default Changelist" comment="" />
-      <created>1584529784708</created>
+      <changelist id="b1e1553a-7896-419a-961e-4ca0d679ebc2" name="Default Changelist" comment="" />
+      <created>1584783378873</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584529784708</updated>
-      <workItem from="1584529787760" duration="937000" />
+      <updated>1584783378873</updated>
+      <workItem from="1584783397385" duration="30000" />
+      <workItem from="1584784866889" duration="154000" />
+      <workItem from="1584791882624" duration="613000" />
+      <workItem from="1584796892509" duration="2122000" />
+      <workItem from="1584800191872" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="130" key="FileChooserDialogImpl" timestamp="1584799020954">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="836" y="130" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1584799020954" />
+    <state width="672" height="206" key="GridCell.Tab.0.bottom" timestamp="1584799022377">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1584799022377" />
+    <state width="672" height="206" key="GridCell.Tab.0.center" timestamp="1584799022377">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1584799022377" />
+    <state width="672" height="206" key="GridCell.Tab.0.left" timestamp="1584799022377">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1584799022377" />
+    <state width="672" height="206" key="GridCell.Tab.0.right" timestamp="1584799022377">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1584799022377" />
+    <state width="1411" height="258" key="GridCell.Tab.1.bottom" timestamp="1584799022373">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1411" height="258" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1584799022373" />
+    <state width="1411" height="258" key="GridCell.Tab.1.center" timestamp="1584799022373">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1411" height="258" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1584799022373" />
+    <state width="1411" height="258" key="GridCell.Tab.1.left" timestamp="1584799022373">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1411" height="258" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1584799022373" />
+    <state width="1411" height="258" key="GridCell.Tab.1.right" timestamp="1584799022373">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1411" height="258" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1584799022373" />
+    <state x="683" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1584797205129">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="683" y="211" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1584797205129" />
+    <state x="0" y="0" key="new project wizard" timestamp="1584783426200">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1474.864@0.0.1474.864" timestamp="1584783426200" />
   </component>
 </project>

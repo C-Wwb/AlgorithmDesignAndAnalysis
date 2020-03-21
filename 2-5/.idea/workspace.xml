@@ -1,68 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated>
-      <config projectName="2_5" targetName="2_5" />
-    </generated>
-  </component>
-  <component name="CMakeSettings">
-    <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
-    </configurations>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a735be8-6480-4f39-b070-acdf1ba0c849" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="57820849-f714-41a6-8b4f-9c782e22ee5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2-7/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第一章 算法概述/第一章 算法概述.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第一章 算法概述/计科1801班-2018011137-武文斌-算法设计与分析第一次作业.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../第一章 算法概述/计算机算法设计与分析课后答案.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="1ZIZQxOD9ikng0IAIIiQl1M5GvJ" />
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="T:\assignment\大二下\算法设计与分析\作业\coding\2-5\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQu1rD3dXWG3lJRTnzzb6CiCbf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2-7" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
   <component name="RunManager">
-    <configuration name="2_5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="2_5" TARGET_NAME="2_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="2_5" RUN_TARGET_NAME="2_5">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2-5" />
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8a735be8-6480-4f39-b070-acdf1ba0c849" name="Default Changelist" comment="" />
-      <created>1584528555051</created>
+      <changelist id="57820849-f714-41a6-8b4f-9c782e22ee5d" name="Default Changelist" comment="" />
+      <created>1584783426242</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584528555051</updated>
-      <workItem from="1584528557083" duration="306000" />
-      <workItem from="1584529522072" duration="259000" />
+      <updated>1584783426242</updated>
+      <workItem from="1584783428791" duration="1466000" />
+      <workItem from="1584799024365" duration="1165000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="130" key="FileChooserDialogImpl" timestamp="1584800186783">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="468" y="130" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1584800186783" />
+    <state width="672" height="206" key="GridCell.Tab.0.bottom" timestamp="1584800190420">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1584800190420" />
+    <state width="672" height="206" key="GridCell.Tab.0.center" timestamp="1584800190420">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1584800190420" />
+    <state width="672" height="206" key="GridCell.Tab.0.left" timestamp="1584800190420">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1584800190420" />
+    <state width="672" height="206" key="GridCell.Tab.0.right" timestamp="1584800190420">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="672" height="206" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1584800190420" />
+    <state x="310" y="193" key="run.anything.popup" timestamp="1584799613217">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="310" y="193" key="run.anything.popup/0.0.1474.864@0.0.1474.864" timestamp="1584799613217" />
   </component>
 </project>
