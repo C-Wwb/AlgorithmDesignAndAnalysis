@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+T:/C++/Algorithm design and analysis/MapOverlay/main.cpp
+cstdio
+-
+cstring
+-
+c++/cstdlib
+-
+c++/iostream
+-
+

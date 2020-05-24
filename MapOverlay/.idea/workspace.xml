@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="RoundRobinSchedule" targetName="RoundRobinSchedule" />
+      <config projectName="MapOverlay" targetName="MapOverlay" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab983314-8e2a-49d4-a943-a74b84cea664" name="Default Changelist" comment="" />
+    <list default="true" id="92ec5cf9-14bd-4a76-80b1-ed8048a191ee" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1cDk3FHkihAc1xAyrO9zf7pfMnh" />
+  <component name="ProjectId" id="1cGU7629U2t36OHLaysFr01tXXQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -46,7 +45,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="RoundRobinSchedule" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="RoundRobinSchedule" TARGET_NAME="RoundRobinSchedule" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="RoundRobinSchedule" RUN_TARGET_NAME="RoundRobinSchedule">
+    <configuration name="MapOverlay" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MapOverlay" TARGET_NAME="MapOverlay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MapOverlay" RUN_TARGET_NAME="MapOverlay">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -57,15 +56,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab983314-8e2a-49d4-a943-a74b84cea664" name="Default Changelist" comment="" />
-      <created>1590070350681</created>
+      <changelist id="92ec5cf9-14bd-4a76-80b1-ed8048a191ee" name="Default Changelist" comment="" />
+      <created>1590154252707</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590070350681</updated>
-      <workItem from="1590070353254" duration="2643000" />
-      <workItem from="1590120204815" duration="896000" />
-      <workItem from="1590147936347" duration="182000" />
-      <workItem from="1590148230731" duration="139000" />
+      <updated>1590154252707</updated>
+      <workItem from="1590154254922" duration="2043000" />
     </task>
     <servers />
   </component>
@@ -77,9 +73,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
