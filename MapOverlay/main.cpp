@@ -29,7 +29,6 @@ void graphcolor(int cur) {
         count++;
         return;
     }
-
     for(i = 1; i <= types; i++) {
         color[cur] = i;
         if(ok(cur) == 1)

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Arrangements" targetName="Arrangements" />
+      <config projectName="final" targetName="final" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6aefedc-2ed4-4292-87e3-7b090e7f3b8a" name="Default Changelist" comment="" />
+    <list default="true" id="84b7085f-8d8f-4571-aad1-001752d1bc26" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1cGRFtdinonKwmr8JwV0iIR5IFZ" />
+  <component name="ProjectId" id="1ctc0WwmzPWMqlgvitVolszJYs2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01KnapsackProblem" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -46,7 +51,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Arrangements" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arrangements" TARGET_NAME="Arrangements" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Arrangements" RUN_TARGET_NAME="Arrangements">
+    <configuration name="final" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="final" TARGET_NAME="final" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="final" RUN_TARGET_NAME="final">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -57,13 +62,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6aefedc-2ed4-4292-87e3-7b090e7f3b8a" name="Default Changelist" comment="" />
-      <created>1590152842296</created>
+      <changelist id="84b7085f-8d8f-4571-aad1-001752d1bc26" name="Default Changelist" comment="" />
+      <created>1591351107749</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590152842296</updated>
-      <workItem from="1590152847686" duration="1379000" />
-      <workItem from="1590321016036" duration="1070000" />
+      <updated>1591351107749</updated>
+      <workItem from="1591351110401" duration="2139000" />
+      <workItem from="1591364366838" duration="602000" />
+      <workItem from="1591443829797" duration="4668000" />
     </task>
     <servers />
   </component>

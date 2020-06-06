@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-T:/C++/Algorithm design and analysis/01KnapsackProblem/main.cpp
-bits/stdc++.h
+T:/C++/Algorithm design and analysis/final/main.cpp
+stdlib.h
 -
-bits/stdc++.h
+stdio.h
 -
 

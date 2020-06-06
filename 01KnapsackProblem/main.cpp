@@ -94,11 +94,10 @@ int main()//测试函数
     cout << "Please enter the value of the object: " << endl;
     for(int i = 1; i <= n; i++)
         cin >> value[i];
-    sort(value+1,value+1+n,cmp);
+    sort(value + 1,value + 1 + n, cmp);
 
     cout << "For optimal solution: " << endl;
     cout << os() <<endl;
-
 }
 /*
 4 9
