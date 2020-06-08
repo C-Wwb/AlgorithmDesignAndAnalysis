@@ -1,0 +1,4 @@
+"T:\C++\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "T:\C++\Algorithm design and analysis\final2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: T:/C++/Algorithm design and analysis/final2/cmake-build-debug

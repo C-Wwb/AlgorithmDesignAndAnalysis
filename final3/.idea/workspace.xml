@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="final" targetName="final" />
+      <config projectName="final3" targetName="final3" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b7085f-8d8f-4571-aad1-001752d1bc26" name="Default Changelist" comment="" />
+    <list default="true" id="779f95f5-76e5-4604-a340-e8d1c24cf5a6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ctc0WwmzPWMqlgvitVolszJYs2" />
+  <component name="ProjectId" id="1d0u9yw7E22oZ8K1SXnOKW9m3xu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../final2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../final" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,7 +52,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="final" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="final" TARGET_NAME="final" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="final" RUN_TARGET_NAME="final">
+    <configuration name="final3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="final3" TARGET_NAME="final3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="final3" RUN_TARGET_NAME="final3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -63,18 +63,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84b7085f-8d8f-4571-aad1-001752d1bc26" name="Default Changelist" comment="" />
-      <created>1591351107749</created>
+      <changelist id="779f95f5-76e5-4604-a340-e8d1c24cf5a6" name="Default Changelist" comment="" />
+      <created>1591574183278</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591351107749</updated>
-      <workItem from="1591351110401" duration="2139000" />
-      <workItem from="1591364366838" duration="602000" />
-      <workItem from="1591443829797" duration="4668000" />
-      <workItem from="1591527918866" duration="19000" />
-      <workItem from="1591530977965" duration="1217000" />
-      <workItem from="1591573763233" duration="417000" />
-      <workItem from="1591583663466" duration="1050000" />
+      <updated>1591574183278</updated>
+      <workItem from="1591574184781" duration="1130000" />
     </task>
     <servers />
   </component>
@@ -86,9 +80,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
